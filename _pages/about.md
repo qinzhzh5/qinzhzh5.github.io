@@ -11,4 +11,4 @@ I am a third year graduate student from [School of Physics and Astronomy](https:
 
 I am fortunate to be advised by [Assco.Prof. Shangfei Liu](https://spa.sysu.edu.cn/zh-hans/teacher/148) focusing on the dynamics of different exoplanetary systems and their potential observational effects. We are currently working towards preparing our findings for publication.
 
-You can find my CV here:
+You can find my CV here: 
