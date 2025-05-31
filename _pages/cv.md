@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <p align="left">
-  <img src="/images/profile.jpg" style="width:30%;">
+  <img src="/images/profile.jpg" style="width:40%;">
 </p>
 
 Education
