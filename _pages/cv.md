@@ -11,18 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astronomy, HKU, 2025 (expected)
-* M.S. in Astronomy, SYSU, 2025
-* B.S. in Physcis, SYSU, 2022
+* Ph.D in Astronomy, HKU, 2025 (expected) - 
+* M.S. in Astronomy, SYSU, 2022 - 2025
+* B.S. in Physcis, SYSU, 2018 - 2022
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* $N$-body simulations
 
 Publications
 ======
@@ -36,6 +31,4 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
