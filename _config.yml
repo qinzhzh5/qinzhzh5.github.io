@@ -21,14 +21,14 @@ repository               : "qinzhzh5/qinzhzh5.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Zhizhen Qin (秦至臻)"
-  #pronouns         : # example: "she/her"  
+  #pronouns         : # example: "she/her"
   bio              : "Build your body. Build your soul." 🚀 🪐 🌌
   location         : "Zhuhai"
   employer         : "SYSU"
-  uri              : # URL
-  email            : #"qinzhzh5@mail2.sysu.edu.cn" 
+  uri              : null # Replace with a valid URL or keep as null
+  email            : null # Replace with a valid email or keep as null
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
