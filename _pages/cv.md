@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-excerpt: "<br/><img src='/images/profile.jpg'>"
+<br/><img src='/images/profile.jpg'>
 
 Education
 ======
