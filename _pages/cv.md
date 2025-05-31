@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-<br/><img src='/images/profile.jpg'>
-
+<p align="center">
+  <img src="/images/profile.jpg" style="width:50%;">
+</p>
 Education
 ======
 * Ph.D in Astronomy, HKU, 2025 (expected) - 
