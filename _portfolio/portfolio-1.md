@@ -1,6 +1,6 @@
 ---
 title: "Climbing"
-excerpt: "Climbing in Liming<br/><img src='/images/500x300.png'>"
+excerpt: "Climbing in Liming<br/><img src='/images/Liming.jpg'>"
 collection: portfolio
 ---
 
