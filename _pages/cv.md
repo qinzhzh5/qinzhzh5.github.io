@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<p align="center">
+<p align="left">
   <img src="/images/profile.jpg" style="width:30%;">
 </p>
 
