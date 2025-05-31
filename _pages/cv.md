@@ -17,7 +17,8 @@ Education
   
 Skills
 ======
-* $N$-body simulations
+* N-body simulations
+* Python, Layex
 
 Publications
 ======
